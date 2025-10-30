@@ -1,0 +1,250 @@
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe.config
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\MyKosHub.pdb
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form1.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Login.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Properties.Resources.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.exe
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.pdb
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe.config
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\bin\Debug\MyKosHub.pdb
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.AssemblyReference.cache
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form1.resources
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form2.resources
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Login.resources
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Properties.Resources.resources
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Settings.resources
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.SignUp.resources
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.GenerateResource.cache
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.CoreCompileInputs.cache
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.exe
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.pdb
+D:\sms4\Visual Programming IS431-C\Lab\project\MyKosHub\MyKosHub\obj\Debug\MyKosHub.UserControl1.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.AssemblyReference.cache
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form1.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form2.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Login.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Properties.Resources.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Settings.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.SignUp.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.UserControl1.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.GenerateResource.cache
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.CoreCompileInputs.cache
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.exe
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\obj\Debug\MyKosHub.pdb
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe.config
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHub1\MyKosHub\MyKosHub\bin\Debug\MyKosHub.pdb
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe.config
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\bin\Debug\MyKosHub.pdb
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.BukaToko.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Dashboard.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.EditBarang.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.EditLayanan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.EditProfil.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form1.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form2.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaPesananLayanan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaPesananToko.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporanMasalah.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporKeuangan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporKeuanganKeseluruhan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporKeuanganKos.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporKeuanganPenghuni.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Login.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.ManajemenLayanan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.ManajemenToko.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Pengguna_Grup.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Penghuni_Toko_Harian.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Properties.Resources.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Setting.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.TambahBarang.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.TambahLayanan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.UserProfile.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.exe
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.pdb
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Homepage.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.manajemenKos.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Logout.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Admin_Manajemen_Masalah.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Pegguna_Chat_Masalah.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.SewaLayanan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.DashboardPenghuni.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.HomepagePenghuni.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.ManajemenFasilitas.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.manajemenKamar.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\MyKosHub\obj\Debug\MyKosHub.manajemenPenghuni.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Dashboard.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.DashboardPenghuni.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Homepage.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaPesananLayanan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.manajemenKamar.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.ManajemenLayanan.resources
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.AssemblyReference.cache
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.exe
+D:\Semester 4 (Genap 2025)\IS431 - C - Visual Programming\Projek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.pdb
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe.config
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\bin\Debug\MyKosHub.pdb
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Admin_Manajemen_Masalah.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.BukaToko.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Dashboard.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.DashboardPenghuni.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.EditBarang.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.EditLayanan.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.EditProfil.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form2.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Homepage.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.HomepagePenghuni.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaPesananLayanan.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaPesananToko.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporanMasalah.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporKeuangan.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporKeuanganKeseluruhan.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporKeuanganKos.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporKeuanganPenghuni.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Login.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Logout.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.ManajemenFasilitas.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.manajemenKamar.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.manajemenKos.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.ManajemenLayanan.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.manajemenPenghuni.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.ManajemenToko.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Pegguna_Chat_Masalah.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Pengguna_Grup.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Penghuni_Toko_Harian.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Setting.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.SewaLayanan.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.TambahBarang.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.TambahLayanan.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.UserProfile.resources
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.exe
+C:\Users\ACER\OneDrive\Documents\Kuliah\S4\Visual Programming\Proyek\MyKosHubFinal\MyKosHub\MyKosHub\obj\Debug\MyKosHub.pdb
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.pdb
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.Up2Date
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.penambahanKamar.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.BeginPemilik1.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporanKeuangan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaStatus.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.UserProfil.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\stdole.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporanViewer.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.SplashScreen.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaKeluhan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.PesanLayanan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.BayarSewaLayanan.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.HomepagePenghuni.resources
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.HomepageAdmin.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.BayarSewaLayanan.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.HomepageAdmin.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.HomepagePenghuni.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaKeluhan.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.BeginPemilik1.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Dashboard.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.DashboardPenghuni.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Form1.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Homepage.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaPesananLayanan.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.KelolaStatus.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporanKeuangan.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporanViewer.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Login.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LoginAdmin.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Logout.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.manajemenKamar.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.ManajemenLayanan.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.penambahanKamar.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.PesanLayanan.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.SplashScreen.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.UserProfil.resources
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.exe
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.pdb
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe.config
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\MyKosHub.exe
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\MyKosHub.pdb
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\stdole.dll
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.pdb
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.xml
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ASUS\Downloads\Cadangan Terbaru\MyKosHub\MyKosHub\obj\Debug\MyKosHub.csproj.Up2Date
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\EPPlus.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\EPPlus.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ASUS\Downloads\MyKosHub\MyKosHub\obj\Debug\MyKosHub.LaporanKeluhanViewer.resources

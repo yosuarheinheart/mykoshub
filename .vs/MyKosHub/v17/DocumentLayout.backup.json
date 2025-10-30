@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\laporankeluhan.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\laporankeluhan.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|c:\\users\\asus\\downloads\\mykoshub\\mykoshub\\folder pemilik\\kelolakeluhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\folder pemilik\\kelolakeluhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|c:\\users\\asus\\downloads\\mykoshub\\mykoshub\\folder pemilik\\manajemenlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\folder pemilik\\manajemenlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|c:\\users\\asus\\downloads\\mykoshub\\mykoshub\\folder pemilik\\manajemenlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\folder pemilik\\manajemenlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\userprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\userprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\userprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\userprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\laporanviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\laporanviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\laporanviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\laporanviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\manajemenkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\manajemenkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\penambahankamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\penambahankamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\bayarsewalayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\bayarsewalayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\homepagepenghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\homepagepenghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\homepagepenghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\homepagepenghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\pemilik folder\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\pemilik folder\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\pemilik folder\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\pemilik folder\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|c:\\users\\asus\\downloads\\mykoshub\\mykoshub\\folder pemilik\\kelolakeluhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\folder pemilik\\kelolakeluhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\dashboardpenghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\dashboardpenghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\dashboardpenghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\dashboardpenghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\laporankeuangankos.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\laporankeuangankos.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\pesanlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\pesanlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\pesanlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\pesanlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\penambahankamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\penambahankamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\penghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\penghuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\laporankeuangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\laporankeuangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\laporankeuangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\laporankeuangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\laporankeluhanviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\laporankeluhanviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\laporankeluhanviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\laporankeluhanviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\kelolastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\kelolastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\kelolastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\kelolastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\bayarsewalayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\bayarsewalayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\pemilik folder\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\pemilik folder\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\pemilik folder\\kelolapesananlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\pemilik folder\\kelolapesananlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\pemilik folder\\kelolapesananlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\pemilik folder\\kelolapesananlayanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\pemilik folder\\beginpemilik1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\pemilik folder\\beginpemilik1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|C:\\Users\\ASUS\\Downloads\\MyKosHub\\mykoshub\\mykoshubdatasetnew.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}|MyKosHub\\MyKosHub.csproj|solutionrelative:mykoshub\\mykoshubdatasetnew.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LaporanViewer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanViewer.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\LaporanViewer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanViewer.cs",
+              "RelativeToolTip": "MyKosHub\\LaporanViewer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:54:32.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfil.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\UserProfil.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\UserProfil.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\UserProfil.cs",
+              "RelativeToolTip": "MyKosHub\\UserProfil.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwDwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:12:24.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManajemenLayanan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Folder Pemilik\\ManajemenLayanan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Folder Pemilik\\ManajemenLayanan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Folder Pemilik\\ManajemenLayanan.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Folder Pemilik\\ManajemenLayanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:50:27.261Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManajemenLayanan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Folder Pemilik\\ManajemenLayanan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Folder Pemilik\\ManajemenLayanan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Folder Pemilik\\ManajemenLayanan.cs",
+              "RelativeToolTip": "MyKosHub\\Folder Pemilik\\ManajemenLayanan.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:15:41.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "manajemenKamar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\manajemenKamar.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\manajemenKamar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\manajemenKamar.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\manajemenKamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:53:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KelolaKeluhan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Folder Pemilik\\KelolaKeluhan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Folder Pemilik\\KelolaKeluhan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Folder Pemilik\\KelolaKeluhan.cs",
+              "RelativeToolTip": "MyKosHub\\Folder Pemilik\\KelolaKeluhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:18:43.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "penambahanKamar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\penambahanKamar.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\penambahanKamar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\penambahanKamar.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\penambahanKamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:09:03.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaporanKeluhan.rpt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeluhan.rpt",
+              "RelativeDocumentMoniker": "MyKosHub\\LaporanKeluhan.rpt",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeluhan.rpt",
+              "RelativeToolTip": "MyKosHub\\LaporanKeluhan.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-03T14:17:32.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LaporanViewer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanViewer.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\LaporanViewer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanViewer.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\LaporanViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:22:05.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\UserProfil.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\UserProfil.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\UserProfil.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\UserProfil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:12:19.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BayarSewaLayanan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\BayarSewaLayanan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\BayarSewaLayanan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\BayarSewaLayanan.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\BayarSewaLayanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:09:42.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomepagePenghuni.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\HomepagePenghuni.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\HomepagePenghuni.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\HomepagePenghuni.cs",
+              "RelativeToolTip": "MyKosHub\\HomepagePenghuni.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwFsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:39:32.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Homepage.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Homepage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Homepage.cs",
+              "RelativeToolTip": "MyKosHub\\Homepage.cs",
+              "ViewState": "AgIAAEwCAAAAAAAAAAAkwFkCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:51:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Form1.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Form1.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:56:32.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomepagePenghuni.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\HomepagePenghuni.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\HomepagePenghuni.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\HomepagePenghuni.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\HomepagePenghuni.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:55:10.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\Dashboard.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Pemilik Folder\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\Dashboard.cs",
+              "RelativeToolTip": "MyKosHub\\Pemilik Folder\\Dashboard.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwG0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:03:21.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Login.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Login.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:58:40.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomepageAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\HomepageAdmin.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\HomepageAdmin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\HomepageAdmin.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\HomepageAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:09:10.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Homepage.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Homepage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Homepage.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:55:08.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomepageAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\HomepageAdmin.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\HomepageAdmin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\HomepageAdmin.cs",
+              "RelativeToolTip": "MyKosHub\\HomepageAdmin.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAkwK0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:27:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\Dashboard.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Pemilik Folder\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\Dashboard.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Pemilik Folder\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:03:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KelolaKeluhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Folder Pemilik\\KelolaKeluhan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Folder Pemilik\\KelolaKeluhan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Folder Pemilik\\KelolaKeluhan.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Folder Pemilik\\KelolaKeluhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:37:55.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbConnect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\dbConnect.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\dbConnect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\dbConnect.cs",
+              "RelativeToolTip": "MyKosHub\\dbConnect.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAiwPUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:12:47.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Form1.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Form1.cs",
+              "RelativeToolTip": "MyKosHub\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:56:38.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Login.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Login.cs",
+              "RelativeToolTip": "MyKosHub\\Login.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:58:43.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardPenghuni.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\DashboardPenghuni.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\DashboardPenghuni.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\DashboardPenghuni.cs",
+              "RelativeToolTip": "MyKosHub\\DashboardPenghuni.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAcwNEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:02:42.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardPenghuni.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\DashboardPenghuni.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\DashboardPenghuni.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\DashboardPenghuni.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\DashboardPenghuni.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:02:40.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LaporanKeuanganKos.rpt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeuanganKos.rpt",
+              "RelativeDocumentMoniker": "MyKosHub\\LaporanKeuanganKos.rpt",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeuanganKos.rpt",
+              "RelativeToolTip": "MyKosHub\\LaporanKeuanganKos.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-03T09:42:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LaporanKeuangan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeuangan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\LaporanKeuangan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeuangan.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\LaporanKeuangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:37:36.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Penghuni.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Penghuni.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Penghuni.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Penghuni.cs",
+              "RelativeToolTip": "MyKosHub\\Penghuni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:58:58.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "penambahanKamar.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\penambahanKamar.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\penambahanKamar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\penambahanKamar.cs",
+              "RelativeToolTip": "MyKosHub\\penambahanKamar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:59:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PesanLayanan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\PesanLayanan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\PesanLayanan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\PesanLayanan.cs",
+              "RelativeToolTip": "MyKosHub\\PesanLayanan.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:59:19.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LaporanKeluhanViewer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeluhanViewer.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\LaporanKeluhanViewer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeluhanViewer.cs",
+              "RelativeToolTip": "MyKosHub\\LaporanKeluhanViewer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:25:50.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LaporanKeluhanViewer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeluhanViewer.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\LaporanKeluhanViewer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeluhanViewer.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\LaporanKeluhanViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:21:41.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PesanLayanan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\PesanLayanan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\PesanLayanan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\PesanLayanan.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\PesanLayanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:08:39.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KelolaStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\KelolaStatus.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\KelolaStatus.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\KelolaStatus.cs",
+              "RelativeToolTip": "MyKosHub\\KelolaStatus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:58:16.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LaporanKeuangan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeuangan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\LaporanKeuangan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\LaporanKeuangan.cs",
+              "RelativeToolTip": "MyKosHub\\LaporanKeuangan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:37:43.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "KelolaStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\KelolaStatus.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\KelolaStatus.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\KelolaStatus.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\KelolaStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:08:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BayarSewaLayanan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\BayarSewaLayanan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\BayarSewaLayanan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\BayarSewaLayanan.cs",
+              "RelativeToolTip": "MyKosHub\\BayarSewaLayanan.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:56:24.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "KelolaPesananLayanan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\KelolaPesananLayanan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Pemilik Folder\\KelolaPesananLayanan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\KelolaPesananLayanan.cs",
+              "RelativeToolTip": "MyKosHub\\Pemilik Folder\\KelolaPesananLayanan.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:11:27.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KelolaPesananLayanan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\KelolaPesananLayanan.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Pemilik Folder\\KelolaPesananLayanan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\KelolaPesananLayanan.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Pemilik Folder\\KelolaPesananLayanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:10:07.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BeginPemilik1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\BeginPemilik1.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Pemilik Folder\\BeginPemilik1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\BeginPemilik1.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Pemilik Folder\\BeginPemilik1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:46:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SplashScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "MyKosHub\\Pemilik Folder\\SplashScreen.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\Pemilik Folder\\SplashScreen.cs [Design]",
+              "RelativeToolTip": "MyKosHub\\Pemilik Folder\\SplashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:46:07.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "mykoshubDataSetNew.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\mykoshubDataSetNew.xsd",
+              "RelativeDocumentMoniker": "MyKosHub\\mykoshubDataSetNew.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\MyKosHub\\MyKosHub\\mykoshubDataSetNew.xsd",
+              "RelativeToolTip": "MyKosHub\\mykoshubDataSetNew.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-06-03T07:29:38.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

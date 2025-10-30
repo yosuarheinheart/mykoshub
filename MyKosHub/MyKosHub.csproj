@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E530DAE5-CE1A-42E9-8381-DFC0B19D3332}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MyKosHub</RootNamespace>
+    <AssemblyName>MyKosHub</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EPPlus, Version=8.0.5.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.8.0.5\lib\net462\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.Interfaces.8.0.0\lib\net462\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IO.RecyclableMemoryStream.3.0.1\lib\netstandard2.0\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.Cryptography.Xml, Version=8.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Xml.8.0.2\lib\net462\System.Security.Cryptography.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Akun.cs" />
+    <Compile Include="Admin.cs" />
+    <Compile Include="Folder Penghuni\BayarSewaLayanan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Penghuni\BayarSewaLayanan.Designer.cs">
+      <DependentUpon>BayarSewaLayanan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Admin\HomepageAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Admin\HomepageAdmin.Designer.cs">
+      <DependentUpon>HomepageAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Penghuni\HomepagePenghuni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Penghuni\HomepagePenghuni.Designer.cs">
+      <DependentUpon>HomepagePenghuni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanKeluhan.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaporanKeluhan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanKeluhanViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanKeluhanViewer.Designer.cs">
+      <DependentUpon>LaporanKeluhanViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasalahAplikasi.cs" />
+    <Compile Include="Folder Pemilik\BeginPemilik1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\BeginPemilik1.Designer.cs">
+      <DependentUpon>BeginPemilik1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Pemilik\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Penghuni\DashboardPenghuni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Penghuni\DashboardPenghuni.Designer.cs">
+      <DependentUpon>DashboardPenghuni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetKos.cs">
+      <DependentUpon>DataSetKos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetKos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetKos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbConnect.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Pemilik\Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\Homepage.Designer.cs">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kamar.cs" />
+    <Compile Include="Folder Pemilik\KelolaKeluhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\KelolaKeluhan.Designer.cs">
+      <DependentUpon>KelolaKeluhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Pemilik\KelolaPesananLayanan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\KelolaPesananLayanan.Designer.cs">
+      <DependentUpon>KelolaPesananLayanan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Pemilik\KelolaStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\KelolaStatus.Designer.cs">
+      <DependentUpon>KelolaStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kos.cs" />
+    <Compile Include="LaporanKeuangan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanKeuangan.Designer.cs">
+      <DependentUpon>LaporanKeuangan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanKeuanganKos.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaporanKeuanganKos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanViewer.Designer.cs">
+      <DependentUpon>LaporanViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Pemilik\manajemenKamar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\manajemenKamar.Designer.cs">
+      <DependentUpon>manajemenKamar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Folder Pemilik\ManajemenLayanan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\ManajemenLayanan.Designer.cs">
+      <DependentUpon>ManajemenLayanan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="midProperties.cs" />
+    <Compile Include="mykoshubDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mykoshubDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="mykoshubDataSetNew.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mykoshubDataSetNew.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pemilik.cs" />
+    <Compile Include="Folder Pemilik\penambahanKamar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\penambahanKamar.Designer.cs">
+      <DependentUpon>penambahanKamar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Penghuni.cs" />
+    <Compile Include="Folder Penghuni\PesanLayanan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Penghuni\PesanLayanan.Designer.cs">
+      <DependentUpon>PesanLayanan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sewa.cs" />
+    <Compile Include="Folder Pemilik\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Folder Pemilik\SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserProfil.Designer.cs">
+      <DependentUpon>UserProfil.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Folder Penghuni\BayarSewaLayanan.resx">
+      <DependentUpon>BayarSewaLayanan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Admin\HomepageAdmin.resx">
+      <DependentUpon>HomepageAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Penghuni\HomepagePenghuni.resx">
+      <DependentUpon>HomepagePenghuni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\KelolaKeluhan.resx">
+      <DependentUpon>KelolaKeluhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanKeluhan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LaporanKeluhan.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanKeluhanViewer.resx">
+      <DependentUpon>LaporanKeluhanViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\BeginPemilik1.resx">
+      <DependentUpon>BeginPemilik1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Penghuni\DashboardPenghuni.resx">
+      <DependentUpon>DashboardPenghuni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\Homepage.resx">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\KelolaPesananLayanan.resx">
+      <DependentUpon>KelolaPesananLayanan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\KelolaStatus.resx">
+      <DependentUpon>KelolaStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanKeuangan.resx">
+      <DependentUpon>LaporanKeuangan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanKeuanganKos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LaporanKeuanganKos.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanViewer.resx">
+      <DependentUpon>LaporanViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\manajemenKamar.resx">
+      <DependentUpon>manajemenKamar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\ManajemenLayanan.resx">
+      <DependentUpon>ManajemenLayanan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\penambahanKamar.resx">
+      <DependentUpon>penambahanKamar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Penghuni\PesanLayanan.resx">
+      <DependentUpon>PesanLayanan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folder Pemilik\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserProfil.resx">
+      <DependentUpon>UserProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSetKos.xsc">
+      <DependentUpon>DataSetKos.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetKos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetKos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetKos.xss">
+      <DependentUpon>DataSetKos.xsd</DependentUpon>
+    </None>
+    <None Include="mykoshubDataSet.xsc">
+      <DependentUpon>mykoshubDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="mykoshubDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mykoshubDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mykoshubDataSet.xss">
+      <DependentUpon>mykoshubDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="mykoshubDataSetNew.xsc">
+      <DependentUpon>mykoshubDataSetNew.xsd</DependentUpon>
+    </None>
+    <None Include="mykoshubDataSetNew.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mykoshubDataSetNew.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mykoshubDataSetNew.xss">
+      <DependentUpon>mykoshubDataSetNew.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\property.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facilities.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Class\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetKos" targetNamespace="http://tempuri.org/DataSetKos.xsd" xmlns:mstns="http://tempuri.org/DataSetKos.xsd" xmlns="http://tempuri.org/DataSetKos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetKos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSetKos" msprop:Generator_DataSetName="DataSetKos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Pemilik" msprop:Generator_RowEvHandlerName="PemilikRowChangeEventHandler" msprop:Generator_RowDeletedName="PemilikRowDeleted" msprop:Generator_RowDeletingName="PemilikRowDeleting" msprop:Generator_RowEvArgName="PemilikRowChangeEvent" msprop:Generator_TablePropName="Pemilik" msprop:Generator_RowChangedName="PemilikRowChanged" msprop:Generator_RowChangingName="PemilikRowChanging" msprop:Generator_TableClassName="PemilikDataTable" msprop:Generator_RowClassName="PemilikRow" msprop:Generator_TableVarName="tablePemilik" msprop:Generator_UserTableName="Pemilik">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_pemilik" msprop:Generator_ColumnPropNameInRow="id_pemilik" msprop:Generator_ColumnPropNameInTable="id_pemilikColumn" msprop:Generator_ColumnVarNameInTable="columnid_pemilik" msprop:Generator_UserColumnName="id_pemilik" type="xs:string" minOccurs="0" />
+              <xs:element name="nama" msprop:Generator_ColumnPropNameInRow="nama" msprop:Generator_ColumnPropNameInTable="namaColumn" msprop:Generator_ColumnVarNameInTable="columnnama" msprop:Generator_UserColumnName="nama" type="xs:string" minOccurs="0" />
+              <xs:element name="email" msprop:Generator_ColumnPropNameInRow="email" msprop:Generator_ColumnPropNameInTable="emailColumn" msprop:Generator_ColumnVarNameInTable="columnemail" msprop:Generator_UserColumnName="email" type="xs:string" minOccurs="0" />
+              <xs:element name="nomor_telepon" msprop:Generator_ColumnPropNameInRow="nomor_telepon" msprop:Generator_ColumnPropNameInTable="nomor_teleponColumn" msprop:Generator_ColumnVarNameInTable="columnnomor_telepon" msprop:Generator_UserColumnName="nomor_telepon" type="xs:string" minOccurs="0" />
+              <xs:element name="password" msprop:Generator_ColumnPropNameInRow="password" msprop:Generator_ColumnPropNameInTable="passwordColumn" msprop:Generator_ColumnVarNameInTable="columnpassword" msprop:Generator_UserColumnName="password" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Pemilik1" msprop:Generator_RowEvHandlerName="Pemilik1RowChangeEventHandler" msprop:Generator_RowDeletedName="Pemilik1RowDeleted" msprop:Generator_RowDeletingName="Pemilik1RowDeleting" msprop:Generator_RowEvArgName="Pemilik1RowChangeEvent" msprop:Generator_TablePropName="Pemilik1" msprop:Generator_RowChangedName="Pemilik1RowChanged" msprop:Generator_RowChangingName="Pemilik1RowChanging" msprop:Generator_TableClassName="Pemilik1DataTable" msprop:Generator_RowClassName="Pemilik1Row" msprop:Generator_TableVarName="tablePemilik1" msprop:Generator_UserTableName="Pemilik1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_pemilik" msprop:Generator_ColumnPropNameInRow="id_pemilik" msprop:Generator_ColumnPropNameInTable="id_pemilikColumn" msprop:Generator_ColumnVarNameInTable="columnid_pemilik" msprop:Generator_UserColumnName="id_pemilik" type="xs:string" minOccurs="0" />
+              <xs:element name="nama" msprop:Generator_ColumnPropNameInRow="nama" msprop:Generator_ColumnPropNameInTable="namaColumn" msprop:Generator_ColumnVarNameInTable="columnnama" msprop:Generator_UserColumnName="nama" type="xs:string" minOccurs="0" />
+              <xs:element name="email" msprop:Generator_ColumnPropNameInRow="email" msprop:Generator_ColumnPropNameInTable="emailColumn" msprop:Generator_ColumnVarNameInTable="columnemail" msprop:Generator_UserColumnName="email" type="xs:string" minOccurs="0" />
+              <xs:element name="nomor_telepon" msprop:Generator_ColumnPropNameInRow="nomor_telepon" msprop:Generator_ColumnPropNameInTable="nomor_teleponColumn" msprop:Generator_ColumnVarNameInTable="columnnomor_telepon" msprop:Generator_UserColumnName="nomor_telepon" type="xs:string" minOccurs="0" />
+              <xs:element name="password" msprop:Generator_ColumnPropNameInRow="password" msprop:Generator_ColumnPropNameInTable="passwordColumn" msprop:Generator_ColumnVarNameInTable="columnpassword" msprop:Generator_UserColumnName="password" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
