@@ -1,6 +1,6 @@
 Instruksi Install Aplikasi MyKosHub
 
-1. Buka folder 'Source Code MyKosHub_Kelompok 6_IS431_C_UAS' yang berisikan file folder Bernama 'MyKosHub' yang sudah mengandung seluruh source code dari aplikasi Winforms (.NET) MyKosHub terlebih dahulu.
+1. Buka folder 'Source Code MyKosHub' yang berisikan file folder Bernama 'MyKosHub' yang sudah mengandung seluruh source code dari aplikasi Winforms (.NET) MyKosHub terlebih dahulu.
 2. Masuk ke dalam folder 'MyKosHub' tersebut dan buka file 'MyKosHub.sln' pada software visual studio.
 3. Buka SQL Server Management Studio (SSMS) atau perangkat lainnya yang mendukung database SQL Server.
 4. Dengan menggunakan SSMS, maka silahkan ikuti langkah berikut:
